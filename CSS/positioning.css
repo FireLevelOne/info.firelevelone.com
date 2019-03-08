@@ -1,0 +1,14 @@
+div.container {
+	margin: 10% 0 0 0;
+}
+
+div.a {
+	width: 60%;
+	margin: auto auto 5% auto;
+	display: flex;
+	justify-content: center;
+}
+
+div.container a {
+	font-size: 30px;
+}

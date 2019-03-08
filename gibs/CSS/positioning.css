@@ -1,0 +1,19 @@
+div.container {
+	margin: 10% 0 0 0;
+}
+
+div.indiv {
+	width: 60%;
+	margin: auto auto auto auto;
+	display: flex;
+	justify-content: center;
+}
+
+div.container span {
+	display: block;
+	font-size: 30px;
+}
+
+div.spacer {
+	margin: 5% 0 0 0;
+}
